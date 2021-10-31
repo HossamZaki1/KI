@@ -1,3 +1,3 @@
 # KI
-Künstliche Intelligenz @ TU Kaiserslautern\\
-Wintersemester 2021/2022
+Künstliche Intelligenz @ TU Kaiserslautern
+im Wintersemester 2021/2022
